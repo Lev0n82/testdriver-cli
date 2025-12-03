@@ -31,7 +31,7 @@
     "@oclif/core": "^4.5.0",
     "@oclif/plugin-commands": "^4.1.28",
     "@oclif/plugin-help": "^6.2.30",
-    "@oclif/plugin-not-found": "^3.2.59",
+    "@oclif/plugin-not-found": "^3.2.72",
     "@oclif/plugin-warn-if-update-available": "^3.1.43",
     "@stoplight/yaml-ast-parser": "^0.0.50",
     "ajv": "^8.17.1",
